@@ -1,0 +1,10 @@
+Metric,Definition / Threshold,Strains (N=41),Gene Families (N=9630),Percentage (%)
+Core Genome (Strict Core)*,Present in ≥99% to 100% of strains,41 / 41,3369,34.98%
+Soft-Core Genome,Present in 95% ≤ strains < 99%,39–40 / 41,299,3.10%
+Shell Genome,Present in 15% ≤ strains < 95%,7–38 / 41,818,8.49%
+Cloud Genome,Present in 0% < strains < 15%,1–6 / 41,5144,53.42%
+-- Strain-Specific Singletons,Present in exactly 1 strain,1 / 41,2536,26.33%
+Total Pan-Genome,All detected orthologous gene families,1–41 / 41,9630,100.00%
+Heaps' Law Openness Exponent (γ),Power-law fit Pan = κ · N^γ (observed),N = 1 to 41,0.2609 ± 0.0040 (κ = 3628.19),Open pan-genome
+Heaps' Law Dereplicated Exponent (γ),Sensitivity fit on non-clonal lineages (≥99.95% ANI),N = 1 to 32,0.2769 ± 0.0064,Robustly open
+Core Genome Asymptote (ω),Exponential decay fit Core = A · e^(-B·N) + ω,N = 1 to 41,3419.5 gene families,Stable core

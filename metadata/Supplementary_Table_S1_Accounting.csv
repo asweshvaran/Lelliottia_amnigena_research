@@ -1,0 +1,58 @@
+accession,strain,taxon_group,qc_status,ani_to_ref,completeness,contamination,contigs,contig_n50,length_bp,reason
+GCF_019047465.1,FDAARGOS 1444,L. amnigena sensu stricto (>=95% ANI),PASS,100.0,100.0,,1,4505532,4505532,Included in strict pan-genome (n=41) & core phylogeny
+GCF_056155165.1,MEI62O-22,L. amnigena sensu stricto (>=95% ANI),PASS,98.82,100.0,,3,4602227,4657295,Included in strict pan-genome (n=41) & core phylogeny
+GCF_019048185.1,FDAARGOS 1446,L. amnigena sensu stricto (>=95% ANI),PASS,98.2,99.17,,5,4591698,4914411,Included in strict pan-genome (n=41) & core phylogeny
+GCF_023970615.1,P13,L. amnigena sensu stricto (>=95% ANI),PASS,98.86,100.0,1.65,2,4555627,4622385,Included in strict pan-genome (n=41) & core phylogeny
+GCF_056157825.1,MEI2A-1023,L. amnigena sensu stricto (>=95% ANI),PASS,98.83,100.0,,2,4524960,4576439,Included in strict pan-genome (n=41) & core phylogeny
+GCF_021498285.1,A167,Putative novel Lelliottia sp. (93.3-93.7% ANI),PASS,93.69,100.0,,2,4520659,4662149,Excluded from strict pan-genome: Putative novel sister sp. (ANI 93.7%); included in core-45 phylogeny
+GCF_002393405.1,FDAARGOS_395,L. amnigena sensu stricto (>=95% ANI),PASS,100.0,100.0,,1,4469608,4469608,Included in strict pan-genome (n=41) & core phylogeny
+GCF_035974235.1,JUb66,L. amnigena sensu stricto (>=95% ANI),PASS,98.23,100.0,,1,4572787,4572887,Included in strict pan-genome (n=41) & core phylogeny
+GCF_019355955.1,FDAARGOS_1445,L. amnigena sensu stricto (>=95% ANI),PASS,98.34,100.0,,2,4504690,4599109,Included in strict pan-genome (n=41) & core phylogeny
+GCF_002553545.1,LMG 2784,L. amnigena sensu stricto (>=95% ANI),PASS,99.99,99.17,0.41,69,240941,4370208,Included in strict pan-genome (n=41) & core phylogeny
+GCF_001514515.1,NBRC 105700,L. amnigena sensu stricto (>=95% ANI),PASS,99.99,100.0,,20,447079,4431882,Included in strict pan-genome (n=41) & core phylogeny
+GCF_003752235.2,JUb66,L. amnigena sensu stricto (>=95% ANI),PASS,98.23,100.0,,1,4572787,4572787,Included in strict pan-genome (n=41) & core phylogeny
+GCF_036487385.1,CARB53,L. amnigena sensu stricto (>=95% ANI),PASS,98.03,100.0,,2,4530957,4675495,Included in strict pan-genome (n=41) & core phylogeny
+GCF_036487165.1,ESBL35,L. amnigena sensu stricto (>=95% ANI),PASS,98.02,100.0,,2,4530550,4675096,Included in strict pan-genome (n=41) & core phylogeny
+GCF_016770935.1,TZW14,L. amnigena sensu stricto (>=95% ANI),PASS,98.27,99.17,,17,731232,4516381,Included in strict pan-genome (n=41) & core phylogeny
+GCF_054986435.1,M36,L. amnigena sensu stricto (>=95% ANI),PASS,98.32,100.0,,20,574941,4576055,Included in strict pan-genome (n=41) & core phylogeny
+GCF_059507775.1,SCRI0072,L. amnigena sensu stricto (>=95% ANI),PASS,98.36,99.72,0.14,65,566065,4441693,Included in strict pan-genome (n=41) & core phylogeny
+GCF_013337605.1,UMA3121,L. amnigena sensu stricto (>=95% ANI),PASS,98.27,100.0,,19,559149,4420612,Included in strict pan-genome (n=41) & core phylogeny
+GCF_049199245.1,M9,L. amnigena sensu stricto (>=95% ANI),PASS,98.16,100.0,0.41,52,516917,4641384,Included in strict pan-genome (n=41) & core phylogeny
+GCF_049206925.1,M5,L. amnigena sensu stricto (>=95% ANI),PASS,98.18,100.0,0.41,51,516917,4640826,Included in strict pan-genome (n=41) & core phylogeny
+GCF_053586105.1,D6,Putative novel Lelliottia sp. (93.3-93.7% ANI),PASS,93.74,100.0,,25,507288,4413781,Excluded from strict pan-genome: Putative novel sister sp. (ANI 93.7%); included in core-45 phylogeny
+GCF_016771075.1,TZW12,L. amnigena sensu stricto (>=95% ANI),PASS,98.32,100.0,,26,415957,4694183,Included in strict pan-genome (n=41) & core phylogeny
+GCF_902160115.1,4928STDY7071390,Misclassified non-Lelliottia (<86% ANI),PASS,85.92,100.0,,29,409579,4467891,Excluded: Non-Lelliottia (ANI 85.9%)
+GCF_060256535.1,HPB_10263,L. amnigena sensu stricto (>=95% ANI),PASS,98.28,100.0,,23,409487,4539208,Included in strict pan-genome (n=41) & core phylogeny
+GCF_032906585.1,efr-133-R2A-84,L. amnigena sensu stricto (>=95% ANI),PASS,98.48,100.0,,23,399529,4445808,Included in strict pan-genome (n=41) & core phylogeny
+GCF_037151855.1,HN028,L. amnigena sensu stricto (>=95% ANI),PASS,98.73,100.0,,38,380321,4576522,Included in strict pan-genome (n=41) & core phylogeny
+GCF_053585975.1,D2,L. amnigena sensu stricto (>=95% ANI),PASS,98.19,100.0,,26,349931,4417397,Included in strict pan-genome (n=41) & core phylogeny
+GCF_016770955.1,TZW16,L. amnigena sensu stricto (>=95% ANI),PASS,98.29,100.0,,35,346396,4756331,Included in strict pan-genome (n=41) & core phylogeny
+GCF_016770975.1,TZW15,L. amnigena sensu stricto (>=95% ANI),PASS,98.28,100.0,,36,346396,4756711,Included in strict pan-genome (n=41) & core phylogeny
+GCF_049200045.1,M6,L. amnigena sensu stricto (>=95% ANI),PASS,98.18,100.0,0.41,61,340093,4642914,Included in strict pan-genome (n=41) & core phylogeny
+GCF_016770995.1,TZW13,L. amnigena sensu stricto (>=95% ANI),PASS,98.24,99.17,,26,337333,4830285,Included in strict pan-genome (n=41) & core phylogeny
+GCF_053586165.1,D4,Putative novel Lelliottia sp. (93.3-93.7% ANI),PASS,93.38,100.0,,24,329163,4361451,Excluded from strict pan-genome: Putative novel sister sp. (ANI 93.4%); included in core-45 phylogeny
+GCF_022352085.1,PTJIIT1005,L. amnigena sensu stricto (>=95% ANI),PASS,98.74,100.0,,71,298940,4550713,Included in strict pan-genome (n=41) & core phylogeny
+GCF_053585915.1,D5,L. amnigena sensu stricto (>=95% ANI),PASS,98.17,100.0,,27,296301,4543846,Included in strict pan-genome (n=41) & core phylogeny
+GCF_052806355.1,86426,L. amnigena sensu stricto (>=95% ANI),PASS,98.73,100.0,,65,240759,4676982,Included in strict pan-genome (n=41) & core phylogeny
+GCF_988867145.1,,L. amnigena sensu stricto (>=95% ANI),PASS,98.41,100.0,,160,240453,4569719,Included in strict pan-genome (n=41) & core phylogeny
+GCF_053586005.1,D3,L. amnigena sensu stricto (>=95% ANI),PASS,98.4,100.0,,55,220040,4461486,Included in strict pan-genome (n=41) & core phylogeny
+GCF_025641975.1,ENT01,L. amnigena sensu stricto (>=95% ANI),PASS,98.15,100.0,,59,212085,4716124,Included in strict pan-genome (n=41) & core phylogeny
+GCF_052806395.1,46837,L. amnigena sensu stricto (>=95% ANI),PASS,98.25,99.17,,76,201978,4732646,Included in strict pan-genome (n=41) & core phylogeny
+GCF_053586065.1,D1,L. amnigena sensu stricto (>=95% ANI),PASS,98.21,100.0,,63,182173,4592150,Included in strict pan-genome (n=41) & core phylogeny
+GCF_052806415.1,10536,L. amnigena sensu stricto (>=95% ANI),PASS,98.24,100.0,,120,163487,4788371,Included in strict pan-genome (n=41) & core phylogeny
+GCF_004331765.1,2017H1G6,L. amnigena sensu stricto (>=95% ANI),PASS,98.28,100.0,,90,134684,4606148,Included in strict pan-genome (n=41) & core phylogeny
+GCF_021441185.1,INSAq176,L. amnigena sensu stricto (>=95% ANI),FAIL,98.3,93.94,0.3,195,58074,4422149,Excluded: QC-FAIL (low_comp(93.94%))
+GCF_035013565.1,GFKo1,L. amnigena sensu stricto (>=95% ANI),PASS,98.19,99.17,,203,46243,4294957,Included in strict pan-genome (n=41) & core phylogeny
+GCF_001652505.2,ZB04,Misclassified non-Lelliottia (<86% ANI),PASS,84.02,100.0,,1,4616122,4616122,Excluded: Non-Lelliottia (ANI 84.0%)
+GCF_900635465.1,NCTC12124,L. amnigena sensu stricto (>=95% ANI),FAIL,99.97,85.9,,1,4471442,4471442,Excluded: QC-FAIL (low_comp(85.9%))
+GCF_029893405.1,JCM 1237,Misclassified non-Lelliottia (<86% ANI),PASS,85.88,100.0,,1,4463412,4463412,Excluded: Non-Lelliottia (ANI 85.9%)
+GCF_062022277.1,,L. amnigena sensu stricto (>=95% ANI),PASS,99.85,100.0,,1,4427905,4427905,Included in strict pan-genome (n=41) & core phylogeny
+GCA_059076015.1,,L. amnigena sensu stricto (>=95% ANI),FAIL,96.25,,,12,361845,3653108,Excluded: QC-FAIL (no_checkm;atypical_len(3653108))
+GCA_963519635.1,,Misclassified non-Lelliottia (<86% ANI),FAIL,83.85,,,42,165903,4801101,Excluded: Non-Lelliottia (ANI 83.9%)
+GCF_947072025.1,,L. amnigena sensu stricto (>=95% ANI),PASS,98.22,98.29,,65,139247,4359307,Included in strict pan-genome (n=41) & core phylogeny
+GCA_055694505.1,,L. amnigena sensu stricto (>=95% ANI),FAIL,97.31,89.43,17.52,873,6395,4617109,Excluded: QC-FAIL (low_comp(89.43%);high_contam(17.52%);fragmented(873_contigs))
+GCA_905202905.1,,L. amnigena sensu stricto (>=95% ANI),FAIL,99.01,86.98,6.22,799,5991,3854042,Excluded: QC-FAIL (low_comp(86.98%);high_contam(6.22%);fragmented(799_contigs))
+GCA_938039995.1,,L. amnigena sensu stricto (>=95% ANI),FAIL,99.0,87.5,5.39,909,5972,4361353,Excluded: QC-FAIL (low_comp(87.5%);high_contam(5.39%);fragmented(909_contigs))
+GCA_966191555.1,,L. amnigena sensu stricto (>=95% ANI),FAIL,97.92,89.59,1.24,865,5744,4060005,Excluded: QC-FAIL (low_comp(89.59%);fragmented(865_contigs))
+GCA_977886585.1,,L. amnigena sensu stricto (>=95% ANI),FAIL,98.22,,,894,4887,3656272,Excluded: QC-FAIL (no_checkm;fragmented(894_contigs);atypical_len(3656272))
+GCA_060835685.1,,L. amnigena sensu stricto (>=95% ANI),FAIL,97.98,,,925,4827,3736584,Excluded: QC-FAIL (no_checkm;fragmented(925_contigs);atypical_len(3736584))
