@@ -8,7 +8,7 @@ This repository contains the computational pipeline, analytical scripts, genome 
 
 > **"Pan-Genome Architecture, Cryptic Lineages, and One Health Mobilization of Epidemic Carbapenemase and Colistin Resistance Plasmids in *Lelliottia amnigena*"**  
 > **Author:** Asweshvaran R.  
-> *Department of Microbiology, Shriram Institute for Industrial Research, 14–15, Sadarmangala Industrial Area, Whitefield Road, Bengaluru 560048, Karnataka, India.*  
+> *Department of Microbiology, Shriram Research Institute, 14–15, Sadarmangala Industrial Area, Whitefield Road, Bengaluru 560048, Karnataka, India.*  
 > **Correspondence:** `asweshvaran@gmail.com`  
 > *Submitted to: Journal of Applied Microbiology (Oxford University Press)*
 
